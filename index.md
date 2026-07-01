@@ -4,7 +4,7 @@ title: Physics of Materials
 description: UCLA's MAT SCI 120 course content
 ---
 
-**Term:** Winter 2026 &nbsp;|&nbsp; **Instructor:** [Daniel Schwalbe-Koda](https://dskoda.com/team/dskoda) &nbsp;|&nbsp; [GitHub](https://github.com/dskoda/physics-materials-course)
+**Term:** Winter 2026 &nbsp;|&nbsp; **Instructor:** [Daniel Schwalbe-Koda](https://dskoda.com/team/dskoda) &nbsp;|&nbsp; [GitHub](https://github.com/dskoda/physics-materials-course) &nbsp;|&nbsp; [Demos](https://dskoda.github.io/physics-materials-demos/#/)
 
 ---
 
@@ -46,6 +46,7 @@ Videos (and sponsored ads) do not necessarily represent the views of the instruc
 **Demos** are interactive visualizations created by the instructor to illustrate each of the physical phenomena and equations.
 The visualizations help gaining intuition on each of the phenomena beyond memorizing equations.
 In some cases, animations appeal to your intuition in known concepts (e.g., heat or sound) to explain harder concepts in quantum mechanics (e.g., electron wavefunction).
+The link to all demos is [found here](https://dskoda.github.io/physics-materials-demos/#/).
 
 **Checklists** provide a summary of equations and concepts related to the course. In particular, the checklist of learning objectives summarizes all the content from this course to simplify reviews, studying, and self-testing.
 
