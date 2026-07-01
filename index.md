@@ -4,7 +4,7 @@ title: Physics of Materials
 description: UCLA's MAT SCI 120 course content
 ---
 
-**Term:** Winter 2026 &nbsp;|&nbsp; **Instructor:** [Daniel Schwalbe-Koda](https://dskoda.com/team/dskoda) &nbsp;|&nbsp; [GitHub]()
+**Term:** Winter 2026 &nbsp;|&nbsp; **Instructor:** [Daniel Schwalbe-Koda](https://dskoda.com/team/dskoda) &nbsp;|&nbsp; [GitHub](https://github.com/dskoda/physics-materials-course)
 
 ---
 
@@ -30,6 +30,8 @@ The course contents are available on the following GitHub repositories:
 - [dskoda/physics-materials-course](https://github.com/dskoda/physics-materials-course)
 - [dskoda/physics-materials-demos](https://github.com/dskoda/physics-materials-demos)
 - [dskoda/electron-slingshot](https://github.com/dskoda/electron-slingshot)
+
+Lecture content (e.g., slides) is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/), except for the slides that are copyrighted (citation).
 
 ---
 
